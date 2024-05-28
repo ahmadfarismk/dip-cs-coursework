@@ -1,0 +1,3 @@
+Arabica*176*17
+Robusta*113*15
+Typica*97*14
